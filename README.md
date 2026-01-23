@@ -170,15 +170,19 @@ imagin-ai/
 If you're experiencing connection issues with Ollama:
 
 1. **Verify Ollama is Running**:
+
    ```bash
    ollama list
    ```
+
    This should show your installed models. If it doesn't work, make sure Ollama is running.
 
 2. **Check Ollama Service**:
+
    ```bash
    curl http://localhost:11434/api/tags
    ```
+
    This should return a JSON response with your models.
 
 3. **Restart Ollama**:
@@ -256,4 +260,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - [Next.js](https://nextjs.org/) for the amazing framework
 - All contributors who help make this project better
 
-<p align="center">Made with ❤️ by the imagin-ai community</p>
+<p align="center">Made with ❤️ by [Vijay deepak](https://github.com/vijaydeepak-tt) with Digital Dreamers Den community</p>
