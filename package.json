@@ -2,6 +2,14 @@
   "name": "imagin-ai",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d3communityofficial/imagin-ai.git"
+  },
+  "homepage": "https://github.com/d3communityofficial/imagin-ai#readme",
+  "bugs": {
+    "url": "https://github.com/d3communityofficial/imagin-ai/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
