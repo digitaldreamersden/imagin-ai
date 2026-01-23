@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useCallback } from 'react';
+import Image from 'next/image';
 import { ToastMessage } from './types';
 import { useImageHistory } from './hooks/useImageHistory';
 import { useStreamingImageGeneration } from './hooks/useStreamingImageGeneration';
@@ -33,13 +34,23 @@ export default function Home() {
   });
 
   return (
-    <div className="min-h-screen py-8 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <header className="text-center mb-8">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-2">
-            AI Image Generator
-          </h1>
+          <div className="flex flex-col items-center justify-center mb-2">
+            <Image
+              src="/logo.png"
+              alt="imagin-ai logo"
+              width={64}
+              height={64}
+              // className="w-16 h-16 md:w-20 md:h-20"
+              priority
+            />
+            <h1 className="text-4xl md:text-5xl font-bold text-white">
+              imagin-ai
+            </h1>
+          </div>
           <p className="text-white/80 text-lg">
             Create stunning images with Ollama&apos;s local AI models
           </p>
