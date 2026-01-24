@@ -8,6 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/d3communityofficial/imagin-ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/d3communityofficial/imagin-ai/stargazers" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/d3communityofficial/imagin-ai?color=FFD700&label=Stars&logo=github&style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/d3communityofficial/imagin-ai/network/members" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/forks/d3communityofficial/imagin-ai?color=007EC6&label=Forks&logo=github&style=flat-square" alt="Forks"></a>
+  <a href="https://github.com/d3communityofficial/imagin-ai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/watchers/d3communityofficial/imagin-ai?color=28A745&label=Views&logo=github&style=flat-square" alt="Watchers"></a>
   <a href="https://github.com/d3communityofficial/imagin-ai/issues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/issues/d3communityofficial/imagin-ai" alt="Issues"></a>
   <a href="https://github.com/d3communityofficial/imagin-ai/blob/main/LICENSE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
   <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Next.js-16.1.4-black?logo=next.js&logoColor=white" alt="Next.js"></a>
