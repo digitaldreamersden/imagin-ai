@@ -263,4 +263,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - [Next.js](https://nextjs.org/) for the amazing framework
 - All contributors who help make this project better
 
-<p align="center">Made with ❤️ by <a href="https://github.com/vijaydeepak-tt">Vijay Deepak</a> with Digital Dreamers Den community</p>
+<p align="center">Made with ❤️ by <a href="https://github.com/vijaydeepak-tt">Vijay Deepak</a> with <a href="https://digitaldreamersden.in">Digital Dreamers Den</a> community</p>
